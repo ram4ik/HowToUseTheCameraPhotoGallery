@@ -13,6 +13,7 @@
 		1DAC5BEE23CB5AA5001AFDEB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DAC5BED23CB5AA5001AFDEB /* Assets.xcassets */; };
 		1DAC5BF123CB5AA5001AFDEB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DAC5BF023CB5AA5001AFDEB /* Preview Assets.xcassets */; };
 		1DAC5BF423CB5AA5001AFDEB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DAC5BF223CB5AA5001AFDEB /* LaunchScreen.storyboard */; };
+		1DAC5BFC23CB5C16001AFDEB /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DAC5BFB23CB5C16001AFDEB /* ImagePicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1DAC5BF023CB5AA5001AFDEB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1DAC5BF323CB5AA5001AFDEB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1DAC5BF523CB5AA5001AFDEB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1DAC5BFB23CB5C16001AFDEB /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				1DAC5BE723CB5AA2001AFDEB /* AppDelegate.swift */,
 				1DAC5BE923CB5AA2001AFDEB /* SceneDelegate.swift */,
 				1DAC5BEB23CB5AA2001AFDEB /* ContentView.swift */,
+				1DAC5BFB23CB5C16001AFDEB /* ImagePicker.swift */,
 				1DAC5BED23CB5AA5001AFDEB /* Assets.xcassets */,
 				1DAC5BF223CB5AA5001AFDEB /* LaunchScreen.storyboard */,
 				1DAC5BF523CB5AA5001AFDEB /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1DAC5BE823CB5AA2001AFDEB /* AppDelegate.swift in Sources */,
+				1DAC5BFC23CB5C16001AFDEB /* ImagePicker.swift in Sources */,
 				1DAC5BEA23CB5AA2001AFDEB /* SceneDelegate.swift in Sources */,
 				1DAC5BEC23CB5AA2001AFDEB /* ContentView.swift in Sources */,
 			);
